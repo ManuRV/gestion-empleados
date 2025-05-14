@@ -10,8 +10,7 @@ en una base de datos PostgreSQL.
 - Spring Data JPA
 - PostgreSQL
 - Swagger 
-- JUnit + Mockito (tests)
-- SLF4J + Logback (logs)
+- SLF4J (logs)
 - Maven
 - Docker (opcional)
 - Postman (pruebas manuales)
