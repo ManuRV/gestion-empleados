@@ -1,0 +1,27 @@
+# Archivos y directorios de compilación
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración de IDEs (IntelliJ, Eclipse, VSCode, etc.)
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.sw?
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de prueba y cobertura
+/test-output/
+coverage/
+jacoco.exec
+
+# Archivos generados por herramientas
+hs_err_pid*
